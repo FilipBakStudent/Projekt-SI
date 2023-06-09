@@ -16,5 +16,5 @@ Opis wybranej koncepcji (5 pkt)
 Zdecydowałem się na wykrywanie kształtu w opencv. Wejściem programu jest obraz z kamery pokładowej, który następnie jest poddawany preprocesingowi aby podbić kontrast między balonem a niebem. Wyjściem algorytmu jest film z naniesioną informacją o wykryciu powłoki a także jej maksymalnym wykrytym rozmiarze podanym w pikselach. Zauważonym problemem jest spontaniczne wykrywanie zer z daty w lewym dolnym rogu nagrania jako balon z nieznanego mi powodu. Do realizacji w rzeczywistym świecie będzie potrzebny system pokładowy, składający się z kamery i mikrokontrolera.
 
 Proof of concept (7 pkt)
-
-Kod oraz nagranie wyjściowe na repozytorium
+Nagranie wyjściowe
+https://youtu.be/d1MJpPDmS7U
